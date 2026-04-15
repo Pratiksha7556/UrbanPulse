@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of GeoSense AI",
+  "description": "An AI-powered urban mobility and environmental monitoring platform utilizing Gemini 2.5 and traffic data analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
